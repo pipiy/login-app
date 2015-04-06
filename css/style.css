@@ -1,0 +1,86 @@
+body {
+  margin: 0;
+  font: normal 12px 'Open Sans', arial, sans-serif;
+  line-height: 20px;
+  color: #333333;
+  background: #1abc9c;
+}
+
+.login-form-section {
+  width: 100%;
+  max-width: 380px;
+  margin: 0 auto;
+  background: #fff;
+}
+.login-form-links {
+  width: 100%;
+  max-width: 380px;
+  margin: 0 auto;
+  padding: 20px;
+  margin-top: 5px;
+  background: #fff; 
+}
+.space {
+  padding: 50px 0;
+}
+.login-wrapper .header {
+  padding: 30px 20px 10px 20px;
+  margin: 0;
+}
+.login-wrapper .header h3 {
+  line-height: 40px;
+  margin: 0;
+  padding: 0;
+  color: #f74e4d;
+  font-size: 25px;
+}
+.login-wrapper .header p {
+  font-size: 12px;
+  text-align: left;
+  line-height: 18px;
+  color: black;
+  padding: 10px 0;
+  margin: 0;
+}
+.login-wrapper .content {
+  padding: 10px 20px;
+}
+.login-wrapper .content .input {
+  height: 50px;
+  font-weight: normal;
+  color: #b3b3b3;
+  border: 1px solid #e6e6e6;
+  outline: none;
+  margin-bottom: 5px;
+  font-size: 15px;
+}
+.login-wrapper .content .input:hover, .login-wrapper .content select:hover {
+  background: #fafafa;
+}
+.login-wrapper .actions {
+  padding: 10px 20px;
+  background: #fff;
+}
+.login-wrapper .actions .btn {
+  float: right;
+  border-radius: 0;
+}
+.login-wrapper .actions .link {
+  float: right;
+  padding: 8px;
+  margin-right: 10px;
+  color: #777777;
+}
+
+.main-container {
+  margin: 0 10px;
+}
+.blue {
+  color: #3498db;
+}
+.green {
+  color: #2ecc71;
+}
+a {
+  text-decoration: none !important;
+}
